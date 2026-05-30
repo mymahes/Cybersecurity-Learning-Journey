@@ -1,2 +1,2 @@
 # Cybersecurity-Learning-Journey
-  My CTF writeups and cybersecurity projects
+  CTF writeups and cybersecurity projects
